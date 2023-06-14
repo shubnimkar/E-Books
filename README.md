@@ -1,2 +1,2 @@
 # Guides
-Guides for various tech
+Guides and E-books 
